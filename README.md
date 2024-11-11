@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:8A2BE2&height=120&section=header&text="/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=gradient&center=true&vCenter=true&random=false&width=435&lines=I'm+Suresh+Ariyadasa;Full+Stack+Developer" alt="Typing     SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=gradient&center=true&vCenter=true&random=false&width=435&lines=I'm+Suresh+Ariyadasa.;Full+Stack+Developer." alt="Typing     SVG"/>
 </h1>
 
 
@@ -26,9 +26,9 @@
 
 ## 🚀 About Me
 
-> 💻 Software Developer passionate about creating impactful solutions
+> 💻 Software Developer passionate about creating impactful solutions.
 >
-> 🎓 Computer Science Student at Eastern University Srilanka
+> 🎓 Computer Science Graduate from Eastern University Srilanka.
 >
 
 
