@@ -52,7 +52,7 @@ const skills = {
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SureshAriyadasa&theme=dark)](https://github.com/SureshAriyadasa)
 
 <!-- Replace USERNAME with your GitHub username -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SureshAriyadasa&layout=compact&theme=dracula&count_private=true&hide_border=true&bg_color=0D1117&title_color=f85149&icon_color=f85149) </br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SureshAriyadasa&layout=compact&theme=dracula&count_private=true&hide_border=true&bg_color=0D1117&title_color=f85149&icon_color=f85149" alt="Top Languages" style="max-width: 100%;"> </br>
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SureshAriyadasa&show_icons=true&theme=dracula&count_private=true)](https://github.com/SureshAriyadasa)
 </div>
 
